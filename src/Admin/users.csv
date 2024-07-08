@@ -1,0 +1,6 @@
+id_user,Name,Email,Home Address,Password,Join Date,STEM Field,Status
+1,John Doe,john.doe@example.com,123 Main St,123456,2023-01-01,Technology,Active
+2,Jane Smith,jane.smith@example.com,456 Elm St,abcdef,2023-02-25,Science,Active
+3,Bob Johnson,bob.johnson@example.com,789 Oak St,pass1234,2023-03-30,Engineering,Active
+4,Vivi Zalzabilah,vivi.zalzabilah@example.com,101 Pine St,pass5678,2023-03-30,Mathematics,Active
+5,admin,admin@gmail.com,admin,admin123,2023-03-30,admin,Active
